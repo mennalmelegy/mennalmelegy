@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menna Abdeltawab</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | I play with LLMs and AI agents</h3>
 
-<p align="left"> <a href="https://twitter.com/the_blue_girll" target="blank"><img src="https://img.shields.io/twitter/follow/the_blue_girll?logo=twitter&style=for-the-badge" alt="the_blue_girll" /></a> </p>
+
 
 - About me **Building and scaling ML-powered applications. Problem-solving mindset and continuous learning**
 
