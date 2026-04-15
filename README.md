@@ -3,7 +3,8 @@
 
 
 
-- About me **Building and scaling ML-powered applications. Problem-solving mindset and continuous learning**
+- About me
+  **Building and scaling ML-powered applications. Problem-solving mindset and continuous learning**
 
 - 🤖 AI & LLM Expertise **LangChain, LangGraph, OpenAI**
 
