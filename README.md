@@ -3,7 +3,9 @@
 
 
 
+
 - About me
+  
   **Building and scaling ML-powered applications. Problem-solving mindset and continuous learning**
 
 - 🤖 AI & LLM Expertise **LangChain, LangGraph, OpenAI**
@@ -31,3 +33,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mennalmelegy/mennalmelegy/output/snake.svg" alt="Snake animation" />
 </div>
+
